@@ -26,7 +26,7 @@ Create or update `.env`:
 
 ```bash
 PORT=3001
-API_KEYS=dev_key_alpha_2026,dev_key_beta_2026
+API_KEYS=<replace with your API Keys>
 ```
 
 All routes under `/api` require an `x-api-key` header.
